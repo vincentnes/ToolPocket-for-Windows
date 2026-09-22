@@ -1,0 +1,25 @@
+﻿ToolPocket for Windows 工具口袋 免費軟體授權條款 / Freeware License
+Copyright (c) 2026 Vincent. All rights reserved.
+
+【中文】
+1. 本軟體（ToolPocket.exe、tools 資料夾內的程式及相關檔案）為免費軟體，
+   任何人都可以免費下載、安裝，並用於個人或商業用途。
+2. 您可以原封不動地分享官方發佈的壓縮檔，但不得收費販售、不得修改後再散布，
+   也不得宣稱為自己的作品。
+3. 除法律明文允許的範圍外，不得對本軟體進行反編譯、反組譯或逆向工程。
+4. 本軟體依「現狀」提供，不附帶任何明示或默示的保證。作者不對因使用或無法使用
+   本軟體所造成的任何損失負責。
+5. 作者保留本軟體所有未明確授予的權利，包括原始碼。
+
+[English]
+1. This software (ToolPocket.exe, the programs in the "tools" folder and related
+   files) is freeware. Anyone may download, install and use it free of charge for
+   personal or commercial purposes.
+2. You may share the official, unmodified release archive. You may not sell it,
+   redistribute modified versions, or claim it as your own work.
+3. You may not decompile, disassemble or reverse engineer the software, except to
+   the extent that applicable law expressly permits it.
+4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+   ARISING FROM THE USE OF, OR INABILITY TO USE, THE SOFTWARE.
+5. All rights not expressly granted, including the source code, are reserved.
